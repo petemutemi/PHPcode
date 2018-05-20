@@ -18,6 +18,7 @@ and open the template in the editor.
         <link href="scripts/css/template.css" rel="stylesheet" type="text/css"/>
         <link href="scripts/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
         <link href="scripts/css/pagination.css" rel="stylesheet" type="text/css"/>       
+        <link href="scripts/css/controls.css" rel="stylesheet" type="text/css"/>
         <!-- JS -->
         <script src="scripts/js/pagination.js" type="text/javascript"></script>
         <script src="scripts/bootstrap/js/bootstrap.min.js" type="text/javascript"></script>

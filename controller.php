@@ -28,4 +28,5 @@ else{
 }
 
 // Load Content 
+echo '<h1 class="div_title">Module: Module Title</h1>';
 require_once ($view);

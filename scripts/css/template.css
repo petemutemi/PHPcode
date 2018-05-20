@@ -1,4 +1,8 @@
 body{margin: 0; border: none;}
 
-#wrap{position: absolute; height: 80%; width: auto; margin-left: 20%; margin-top: 2.5%; bbackground: #f8f8f8;}
+#wrap{position: absolute; height: 100%; width: 95%; margin-left: 2.5%;}
+
+#menu{float: left; height: 80%; margin-top: 5%; width: 15%; border-right: 2px groove #999; border-radius: 5px;}
+
+#content{float: left; height: 100%; width: 83.5%; margin-left: 1%}
 
