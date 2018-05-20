@@ -24,7 +24,8 @@ and open the template in the editor.
     </head>
     <body>
         <div id="wrap">
-            <?php require_once ("controller.php"); ?>
+            <div id="menu"><?php require_once ("includes/menu.php"); ?></div>
+            <div id="content"><?php require_once ("controller.php"); ?></div>
         </div>
     </body>
 </html>
