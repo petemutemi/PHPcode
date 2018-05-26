@@ -1,6 +1,5 @@
 <?php 
     session_start(); 
-    $_SESSION["module"] = "pagination";
 ?>
 <!DOCTYPE html>
 <!--
@@ -17,10 +16,10 @@ and open the template in the editor.
         <!-- CSS -->        
         <link href="scripts/css/template.css" rel="stylesheet" type="text/css"/>
         <link href="scripts/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
-        <link href="scripts/css/pagination.css" rel="stylesheet" type="text/css"/>       
+        <link href="scripts/css/modules.css" rel="stylesheet" type="text/css"/>       
         <link href="scripts/css/controls.css" rel="stylesheet" type="text/css"/>
         <!-- JS -->
-        <script src="scripts/js/pagination.js" type="text/javascript"></script>
+        <script src="scripts/js/modules.js" type="text/javascript"></script>
         <script src="scripts/bootstrap/js/bootstrap.min.js" type="text/javascript"></script>
     </head>
     <body>

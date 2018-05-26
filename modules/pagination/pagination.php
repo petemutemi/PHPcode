@@ -12,7 +12,7 @@
             </tr>
             <?php 
                 //Pagination Variables
-                $perpage = 5;
+                $perpage = 17;
                 if(isset($_GET["page"])){
                     $curpage = $_GET["page"];
                 }else{

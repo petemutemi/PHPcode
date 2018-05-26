@@ -11,3 +11,7 @@ function pagination(id){
     xmlhttp.open("GET", "modules/pagination/pagenationLoad.php?pg=" + str, true);
     xmlhttp.send();
 }
+
+function testLink(){
+    alert("Link");
+}

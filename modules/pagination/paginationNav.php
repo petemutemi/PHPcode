@@ -44,5 +44,8 @@
                 <span class="sr-only">First</span>
             </a>
         </li>
+        <li>
+            <a href="#" onclick="testLink()">Link</a>
+        </li>
     </ul>
 </nav>

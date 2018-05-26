@@ -2,6 +2,13 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group/>
+        <group>
+            <file>file:/C:/xampp/htdocs/PHPCode/index.php</file>
+            <file>file:/C:/xampp/htdocs/PHPCode/scripts/css/controls.css</file>
+            <file>file:/C:/xampp/htdocs/PHPCode/controller.php</file>
+            <file>file:/C:/xampp/htdocs/PHPCode/includes/menu.php</file>
+            <file>file:/C:/xampp/htdocs/PHPCode/scripts/css/pagination.css</file>
+            <file>file:/C:/xampp/htdocs/PHPCode/scripts/css/template.css</file>
+        </group>
     </open-files>
 </project-private>
